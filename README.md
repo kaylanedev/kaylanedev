@@ -1,16 +1,35 @@
-## Hi there 👋
+# Olá, eu sou a Kaylane Rebeca! 👋
 
-<!--
-**kaylanedev/kaylanedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante do curso técnico **Integrado em Informática** no **IFCE Campus Maranguape**. Tenho **16 anos** e atualmente estou focada em desenvolver meus projetos e expandir meus conhecimentos na área de tecnologia, com o objetivo de me tornar uma profissional de **Cibersegurança**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ My Skills
+
+Aqui estão as tecnologias que eu já utilizo em meus projetos:
+
+<p align="left">
+  <img src="https://shields.io" alt="Python" />
+  <img src="https://shields.io" alt="JavaScript" />
+  <img src="https://shields.io" alt="HTML5" />
+  <img src="https://shields.io" alt="CSS3" />
+  <img src="https://shields.io" alt="MySQL" />
+  <img src="https://shields.io" alt="Git" />
+  <img src="https://shields.io" alt="Linux" />
+  <img src="https://shields.io" alt="Bash" />
+  <img src="https://shields.io" alt="Java" />
+</p>
+
+## 📚 Studying
+
+Tecnologias que estou estudando e praticando no momento:
+
+<p align="left">
+  <img src="https://shields.io" alt="C++" />
+  <img src="https://shields.io" alt="Arduino" />
+  <img src="https://shields.io" alt="Docker" />
+  <img src="https://shields.io" alt="PHP" />
+</p>
+
+---
+
