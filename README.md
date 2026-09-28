@@ -8,10 +8,6 @@ Sou estudante do curso técnico **Integrado em Informática** no **IFCE Campus M
 
 Aqui estão as tecnologias que eu já utilizo em meus projetos:
 
-## 🛠️ My Skills
-
-Aqui estão as tecnologias que eu já utilizo em meus projetos:
-
 <p align="left">
   <img src="https://githubusercontent.com" alt="python" width="40" height="40"/>&nbsp;
   <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>&nbsp;
