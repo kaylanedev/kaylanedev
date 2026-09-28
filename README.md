@@ -8,17 +8,22 @@ Sou estudante do curso técnico **Integrado em Informática** no **IFCE Campus M
 
 Aqui estão as tecnologias que eu já utilizo em meus projetos:
 
+## 🛠️ My Skills
+
+Aqui estão as tecnologias que eu já utilizo em meus projetos:
+
 <p align="left">
-  <img src="https://shields.io" alt="Python" />
-  <img src="https://shields.io" alt="JavaScript" />
-  <img src="https://shields.io" alt="HTML5" />
-  <img src="https://shields.io" alt="CSS3" />
-  <img src="https://shields.io" alt="MySQL" />
-  <img src="https://shields.io" alt="Git" />
-  <img src="https://shields.io" alt="Linux" />
-  <img src="https://shields.io" alt="Bash" />
-  <img src="https://shields.io" alt="Java" />
+  <img src="https://githubusercontent.com" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="javascript" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="html5" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="css3" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="mysql" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="git" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="bash" width="40" height="40"/>&nbsp;
+  <img src="https://githubusercontent.com" alt="java" width="40" height="40"/>
 </p>
+
 
 ---
 
