@@ -20,16 +20,5 @@ Aqui estão as tecnologias que eu já utilizo em meus projetos:
   <img src="https://shields.io" alt="Java" />
 </p>
 
-## 📚 Studying
-
-Tecnologias que estou estudando e praticando no momento:
-
-<p align="left">
-  <img src="https://shields.io" alt="C++" />
-  <img src="https://shields.io" alt="Arduino" />
-  <img src="https://shields.io" alt="Docker" />
-  <img src="https://shields.io" alt="PHP" />
-</p>
-
 ---
 
