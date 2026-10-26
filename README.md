@@ -70,4 +70,4 @@ Estudante **Integrado de Informatica** no **Instituto Federal do Ceará (IFCE)**
   </a>
 </p>
 
-📧 **kaylane.rebeca63@aluno.ifce.edu.br**
+📧 **kaylanerebeca971@gmail.com**
